@@ -1,0 +1,25 @@
+.carousel-image{
+    width: 50px;
+    height: 50px;
+}
+.carousel-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container{
+    display: flex;
+    width: 60%;
+    background-color: red;
+    justify-content: space-around;
+    overflow-x: scroll;
+}
+
+.carousel-image-container{
+    background-color: yellow;
+    width: 80%;
+    margin-left: 40px;
+    margin-right: 40px;
+}
